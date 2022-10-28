@@ -17,8 +17,10 @@
 - [x] React: [Typescripted_TFJS_Chatbot](https://github.com/ssghost/Typescripted_TFJS_Chatbot)
 
 ### Hardware Integration
-- [ ] ...
+- [ ] Upcoming...
 
 ### Integration with Blockchain Technology
 - [x] Tradebot: [A3C_Defi_Tradebot](https://github.com/ssghost/A3C_Defi_Tradebot)
 
+### Stable Diffusion
+- [x] [SimpleDiffusionDash](https://github.com/ssghost/SimpleDiffusionDash)

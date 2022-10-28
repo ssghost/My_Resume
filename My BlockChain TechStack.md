@@ -16,8 +16,14 @@
 ### ZkSync APIs
 - [x] [zksync-test](https://github.com/ssghost/zksync-test)
 
+### Vyper Contracts
+- [x] [vyper_template](https://github.com/ssghost/vyper_template)
+
 ### Full Stack Integration
 - [x] [Solidity_Frontend](https://github.com/ssghost/Solidity_Frontend)
 
 ### Integration with Deeplearning Technology
 - [x] Tradebot: [A3C_Defi_Tradebot](https://github.com/ssghost/A3C_Defi_Tradebot)
+
+### Chainlink Automation
+- [ ] Upcoming...
