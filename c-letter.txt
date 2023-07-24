@@ -1,6 +1,6 @@
 Dear Hiring Manager,
 
-I'm applying for a {ML Engineer/Quatitative Analyst/Smart Contract}'s position at your company. 
+I'm applying for a {ML Engineer/Quatitative Analyst/Smart Contract Developer}'s position at your company. 
 Based on the posted description, I'm confident that I am fully qualified for the position 
 and will be a strong addition to your team. I would appreciate an online job interview 
 at your earliest convenience. Please find my resume attached.
