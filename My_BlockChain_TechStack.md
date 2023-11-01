@@ -21,6 +21,7 @@
 
 ### Full Stack Integration
 - [x] [Solidity_Frontend](https://github.com/ssghost/Solidity_Frontend)
+- [x] [Rust Backend](https://github.com/ssghost/hackathon-task-04) 
 
 ### Integration with Deeplearning Technology
 - [x] Tradebot: [A3C_Defi_Tradebot](https://github.com/ssghost/A3C_Defi_Tradebot)
